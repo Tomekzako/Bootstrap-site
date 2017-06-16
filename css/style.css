@@ -37,3 +37,21 @@ body {
     text-align: center;
     padding-bottom: 20px;
 }
+
+.feature-divider {
+    margin: 100px 20px;
+}
+
+.feature {
+    margin: 50px;
+    padding: 50px;
+}
+
+.feature p {
+    font-size: 22px;
+    color: dimgrey;
+}
+
+footer p {
+    margin-right: 20px;
+}
