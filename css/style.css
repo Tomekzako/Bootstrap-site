@@ -32,3 +32,8 @@ body {
     left: 0;
     min-width: 100%;
 }
+
+.marketing {
+    text-align: center;
+    padding-bottom: 20px;
+}
